@@ -315,16 +315,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 tvg-id="XilamTV.fr@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k6spR1AVLZ0ISqrFP-Z9JeBMHPpAc9T-pmFlG6_lSkNw=s160-c-k-c0x00ffffff-no-rj" group-title="Animation",XilamTV (1080p)
 https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 
-#================================================================================SENEGAL====================================================================
+#=================================================================Africa SENEGAL====================================================================
 
 #EXTINF:-1 tvg-id="RTS1.sn@SD" tvg-logo="https://i.imgur.com/HHGktpF.png" group-title="SENEGAL",RTS 1 
 http://69.64.57.208/rts1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTS2.sn@SD" tvg-logo="https://i.imgur.com/YypHsF4.png" group-title="SENEGAL",RTS 2 
 http://69.64.57.208/rts2/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="2STV.sn@SD" tvg-logo="https://i.imgur.com/WByVBZf.png" group-title="SENEGAL",2STV
 http://69.64.57.208/2stv/playlist.m3u8
