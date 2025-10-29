@@ -18,7 +18,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:-1 tvg-id="AlpedHuezTV.fr@SD" tvg-logo="https://i.imgur.com/090tCQ5.png" group-title="General",Alpe d’Huez TV (720p) [Not 24/7]
 https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 
-#EXTINF:-1 tvg-id="BSmartTV.fr@SD" tvg-logo="https://i.imgur.com/RyVEFcG.png" group-title="Undefined",B Smart TV (320p)
+#EXTINF:-1 tvg-id="BSmartTV.fr@SD" tvg-logo="https://i.imgur.com/RyVEFcG.png" group-title="General",B Smart TV (320p)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
 
 #EXTINF:-1 tvg-id="Avatar.us@France" tvg-logo="https://i.imgur.com/2ijwlnR.png" group-title="Kids",Avatar
@@ -30,9 +30,6 @@ https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 #EXTINF:-1 tvg-id="BBCDrama.uk@France" tvg-logo="https://i.postimg.cc/dtGKJ8HB/bbcdrama.png" group-title="Series",BBC Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eff52b4b-c804-4f5a-968a-d48a2898e184
 
-#EXTINF:-1 tvg-id="BFMBusiness.fr@SD" tvg-logo="https://i.imgur.com/psqIHn4.png" group-title="Business;News",BFM Business (576p)
-https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
-
 #EXTINF:-1 tvg-id="BFMLyon.fr@SD" tvg-logo="https://i.imgur.com/0uiiZRo.png" group-title="News",BFM Lyon (576p)
 https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
@@ -42,7 +39,7 @@ https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News",BFM TV (576p)
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
-#EXTINF:-1 tvg-id="Caillou.fr@SD" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="Undefined",Caillou
+#EXTINF:-1 tvg-id="Caillou.fr@SD" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="Kids",Caillou
 https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
 
 #EXTINF:-1 tvg-id="Bobleponge.us@France" tvg-logo="https://i.imgur.com/ITwU1yZ.png" group-title="Kids",Bob l'éponge
@@ -84,7 +81,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-id="EuronewsFrench.fr@HD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews French HD
 https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
 
-#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="Lifestyle",FashionTV Paris L'Original (1080p)
+#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="General",FashionTV Paris L'Original (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Francophonie24.fr@SD" tvg-logo="https://i.imgur.com/uM1v1sd.png" group-title="Documentary",Francophonie (360p)
@@ -93,17 +90,14 @@ http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Franceinfo.fr@SD" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="News",Franceinfo
 https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 
-#EXTINF:-1 tvg-id="GameOne.fr@SD" tvg-logo="https://i.imgur.com/UHkaObv.png" group-title="Animation;Entertainment",Game One (1080p)
+#EXTINF:-1 tvg-id="GameOne.fr@SD" tvg-logo="https://i.imgur.com/UHkaObv.png" group-title="Kids",Game One (1080p)
 https://viamotionhsi.netplus.ch/live/eds/gameone/browser-HLS8/gameone.m3u8
 
-#EXTINF:-1 tvg-id="HANDICAPTV.fr@SD" tvg-logo="https://i.imgur.com/vXbAeD0.png" group-title="Lifestyle",HANDICAP TV France
+#EXTINF:-1 tvg-id="HANDICAPTV.fr@SD" tvg-logo="https://i.imgur.com/vXbAeD0.png" group-title="General",HANDICAP TV France
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Gulli.fr@SD" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids",Gulli (720p)
 https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
-
-#EXTINF:-1 tvg-id="ILTV.fr@SD" tvg-logo="https://i.imgur.com/fVhrJHK.png" group-title="Undefined",ILTV (720p)
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JustepourRire.us@France" tvg-logo="https://i.imgur.com/m5lO27j.png" group-title="General",Juste pour Rire
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a0ee8bde-7a09-45e2-b51d-4cf3012304cd
@@ -171,7 +165,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 #EXTINF:-1 tvg-id="NOVO19.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/langfr-512px-Logo_NOVO19_-_2025.svg.png" group-title="General",NOVO19 (720p)
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 
-#EXTINF:-1 tvg-id="ParamountChannel.fr@SD" tvg-logo="https://i.imgur.com/BqmDlC2.png" group-title="Movies;Series",Paramount Channel (1080p)
+#EXTINF:-1 tvg-id="ParamountChannel.fr@SD" tvg-logo="https://i.imgur.com/BqmDlC2.png" group-title="Movies",Paramount Channel (1080p)
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVAnimaux.us@France" tvg-logo="https://i.imgur.com/jxYlLsd.png" group-title="General",Pluto TV Animaux
@@ -186,7 +180,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-id="PlutoTVComedie.us@France" tvg-logo="https://i.imgur.com/1e4IFrS.png" group-title="General",Pluto TV Comédie
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc40-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7eeb5026-2fd1-4f02-8b21-df9f69932d00
 
-#EXTINF:-1 tvg-id="PlutoTVCuisine.us@France" tvg-logo="https://i.imgur.com/OuAi5ef.png" group-title="Lifestyle",Pluto TV Cuisine
+#EXTINF:-1 tvg-id="PlutoTVCuisine.us@France" tvg-logo="https://i.imgur.com/OuAi5ef.png" group-title="General",Pluto TV Cuisine
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055175-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d65e7814-007f-4b37-ac42-189f2577bbff
 
 #EXTINF:-1 tvg-id="PlutoTVInvestigation.us@France" tvg-logo="https://i.imgur.com/8LdACfR.png" group-title="Documentary",Pluto TV Investigation
@@ -225,9 +219,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 tvg-id="PlutoTVSeries.us@France" tvg-logo="https://i.imgur.com/7ouD3E6.png" group-title="Series",Pluto TV Series
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055172-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bf0c406-dfcb-4037-8de6-bd12c393c6a5
 
-#EXTINF:-1 tvg-id="RMCStory.fr@SD" tvg-logo="https://i.postimg.cc/MpjZFqGF/rmcstory.png" group-title="Undefined",RMC Story (1080p)
-https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVWesterns.us@France" tvg-logo="https://i.imgur.com/biepi4A.png" group-title="Movies",Pluto TV Western
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cca3e2ec452d0008af3a65/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d44-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bae761e4-0e1a-4102-8f5e-fa657934946c
 
@@ -249,10 +240,7 @@ https://start-1.direct.live/hls/tebeo.m3u8
 #EXTINF:-1 tvg-id="T18.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/langfr-512px-Logo_de_la_chaine_T18.svg.png" group-title="General",T18 (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 
-#EXTINF:-1 tvg-id="TebeSud.fr@SD" tvg-logo="https://i.postimg.cc/sX3jnL1Q/tebesud.png" group-title="Undefined",TébéSud (1080p)
-https://start-2.direct.live/hls/tebesud.m3u8
-
-#EXTINF:-1 tvg-id="TFX.fr@SD" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="Undefined",TFX (1080p)
+#EXTINF:-1 tvg-id="TFX.fr@SD" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="Entertainment",TFX (1080p)
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 
 #EXTINF:-1 tvg-id="TheAsylum.us@France" tvg-logo="https://i.imgur.com/dx9tt1B.png" group-title="Series",The Asylum
@@ -270,7 +258,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TortuesNinjaTV.us@France" tvg-logo="https://i.imgur.com/d2ACbkV.png" group-title="Kids",Tortues Ninja TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e050351-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8626ec32-5f10-4aef-bfdb-f5495f6d4ff1
 
-#EXTINF:-1 tvg-id="Trek.fr@HD" tvg-logo="https://i.imgur.com/TcF53W4.png" group-title="Undefined",Trek HD (1080p)
+#EXTINF:-1 tvg-id="Trek.fr@HD" tvg-logo="https://i.imgur.com/TcF53W4.png" group-title="General",Trek HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD" tvg-logo="https://i.imgur.com/WmRbudc.png" group-title="General",TV5Monde France Belgium Switzerland Monaco HD
@@ -288,13 +276,13 @@ https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMonaco.mc@SD" tvg-logo="https://i.postimg.cc/3wfrndKv/tvmonaco.png" group-title="General",TV Monaco (1080p)
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 
-#EXTINF:-1 tvg-id="ViaMatele.fr@SD" tvg-logo="https://i.imgur.com/XVCV9rj.png" group-title="Undefined",ViàMatélé (1080p)
+#EXTINF:-1 tvg-id="ViaMatele.fr@SD" tvg-logo="https://i.imgur.com/XVCV9rj.png" group-title="General",ViàMatélé (1080p)
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Victorious.us@France" tvg-logo="https://i.imgur.com/7fzlbi2.png" group-title="Undefined",Victorious
+#EXTINF:-1 tvg-id="Victorious.us@France" tvg-logo="https://i.imgur.com/7fzlbi2.png" group-title="General",Victorious
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64bab8830e086a0009d44273/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06ff27-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d562924d-7b50-4dfa-bcf9-0cb983d72a29
 
-#EXTINF:-1 tvg-id="VosgesTV.fr@SD" tvg-logo="https://i.imgur.com/7y7ancc.png" group-title="Undefined",Vosges Télévision (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="VosgesTV.fr@SD" tvg-logo="https://i.imgur.com/7y7ancc.png" group-title="General",Vosges Télévision (576p) [Not 24/7]
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="Entertainment",W9 [Geo-blocked]
