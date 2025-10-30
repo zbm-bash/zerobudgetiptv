@@ -173,14 +173,14 @@ https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD" tvg-logo="https://i.postimg.cc/zfSny3Qs/tv5mondeinfo.png" group-title="INFOS",TV5Monde Info (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="Africa24.fr@SD" tvg-logo="https://i.postimg.cc/ZY9Y3vnk/africa24.png" group-title="INFOS",Africa 24 (1080p)
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD" tvg-logo="https://i.postimg.cc/zfSny3Qs/tv5mondeinfo.png" group-title="INFOS",TV5Monde Orient
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/04.m3u8
 #EXTINF:-1 tvg-id="CNews.fr@SD" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="INFOS",CNews (1080p) [Geo-blocked]
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="INFOS",BFM TV (576p)
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="Africa24.fr@SD" tvg-logo="https://i.postimg.cc/ZY9Y3vnk/africa24.png" group-title="INFOS",Africa 24 (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-logo="https://i.postimg.cc/PrbrSsjT/bfm2.png" group-title="INFOS",BFM2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 #EXTINF:-1 tvg-id="RTFrance.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="INFOS",RT France (1080p) [Geo-blocked]
