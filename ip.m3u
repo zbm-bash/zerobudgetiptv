@@ -31,7 +31,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 tvg-id="Caillou.fr@SD" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="Enfants",Caillou
 https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD" tvg-logo="https://i.postimg.cc/zfSny3Qs/tv5mondeinfo.png" group-title="Enfants",Tivi5
-https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/04.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/index.m3u8
 #EXTINF:-1 tvg-id="GameOne.fr@SD" tvg-logo="https://i.imgur.com/UHkaObv.png" group-title="Enfants",Game One (1080p)
 https://viamotionhsi.netplus.ch/live/eds/gameone/browser-HLS8/gameone.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKidsGaming.us@France" tvg-logo="https://i.imgur.com/cqYqBF3.png" group-title="Enfants",Pluto TV Kids Gaming
@@ -174,7 +174,7 @@ https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD" tvg-logo="https://i.postimg.cc/zfSny3Qs/tv5mondeinfo.png" group-title="INFOS",TV5Monde Info (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD" tvg-logo="https://i.postimg.cc/zfSny3Qs/tv5mondeinfo.png" group-title="INFOS",TV5Monde Orient
-https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/04.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/index.m3u8
 #EXTINF:-1 tvg-id="CNews.fr@SD" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="INFOS",CNews (1080p) [Geo-blocked]
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="INFOS",BFM TV (576p)
